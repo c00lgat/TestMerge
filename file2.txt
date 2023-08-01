@@ -1,0 +1,1 @@
+i am now writing into file2.txt, just trying to see if this thing is working
