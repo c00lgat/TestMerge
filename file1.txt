@@ -1,4 +1,7 @@
 hello world from my linux
 this is a change to file1.txt, will be pushed for testing purposes
 
+ Feature1
 Adding from Feature 1 branch
+
+This is a feature from Feature2 branch
